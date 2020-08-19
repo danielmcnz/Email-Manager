@@ -1,0 +1,894 @@
+INFO:root:started email transfer...
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg0.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg0.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg1.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg1.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg2.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg2.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg3.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg3.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg4.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg4.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg5.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg5.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg6.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg6.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg7.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg7.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg8.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg8.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg9.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg9.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg10.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg10.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg11.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg11.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg12.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg12.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg13.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg13.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg14.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg14.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg15.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg15.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg16.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg16.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg17.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg17.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg18.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg18.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg19.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg19.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg20.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg20.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg21.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg21.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg22.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg22.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg23.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg23.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg24.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg24.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg25.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg25.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg26.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg26.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg27.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg27.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg28.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg28.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg29.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg29.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg30.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg30.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg31.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg31.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg32.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg32.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg33.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg33.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg34.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg34.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg35.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg35.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg36.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg36.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg37.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg37.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg38.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg38.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg39.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg39.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg40.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg40.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg41.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg41.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg42.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg42.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg43.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg43.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg44.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg44.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg45.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg45.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg46.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg46.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg47.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg47.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg48.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg48.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg49.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg49.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg50.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg50.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg51.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg51.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg52.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg52.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg53.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg53.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg54.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg54.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg55.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg55.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg56.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg56.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg57.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg57.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg58.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg58.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg59.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg59.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg60.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg60.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg61.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg61.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg62.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg62.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg63.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg63.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg64.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg64.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg65.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg65.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg66.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg66.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg67.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg67.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg68.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg68.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg69.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg69.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg70.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg70.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg71.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg71.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg72.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg72.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg73.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg73.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg74.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg74.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg75.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg75.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages0/msg76.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages0/msg76.eml
+INFO:root:next page
+INFO:root:file transfer completed
+INFO:root:now renaming emails...
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg26.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg44.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg0.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg1.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg10.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg11.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg12.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg13.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/Lewis Road Creamery Tasting for PnS Tamatea.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg14.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg15.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg16.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg17.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg18.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg19.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg2.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg20.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg21.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg22.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg23.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg24.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg25.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg27.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg28.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg29.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg3.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg30.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg31.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg32.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg33.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg34.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg35.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg36.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg37.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg38.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/drafts.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg39.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg4.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg40.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg41.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg42.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg43.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg45.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg46.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg47.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg48.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg49.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg5.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg50.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg51.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg52.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg53.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg54.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg55.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg56.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg57.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg58.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg59.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg6.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg60.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg61.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg62.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg63.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg64.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg65.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg66.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg67.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg68.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg69.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg7.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg70.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg71.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg72.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg73.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg74.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg75.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg76.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg8.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/msg9.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:completed renaming emails...
+INFO:root:started email transfer...
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg100.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg100.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg101.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg101.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg102.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg102.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg103.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg103.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg104.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg104.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg105.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg105.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg106.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg106.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg107.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg107.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg108.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg108.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg109.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg109.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg110.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg110.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg111.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg111.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg112.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg112.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg113.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg113.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg114.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg114.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg115.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg115.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg116.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg116.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg117.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg117.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg118.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg118.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg119.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg119.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg120.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg120.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg121.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg121.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg122.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg122.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg123.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg123.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg124.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg124.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg125.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg125.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg126.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg126.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg127.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg127.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg128.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg128.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg129.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg129.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg130.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg130.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg131.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg131.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg132.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg132.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg133.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg133.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg134.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg134.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg135.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg135.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg136.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg136.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg137.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg137.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg138.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg138.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg139.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg139.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg140.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg140.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg141.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg141.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg142.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg142.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg143.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg143.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg144.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg144.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg145.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg145.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg146.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg146.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg147.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg147.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg148.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg148.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg149.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg149.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg150.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg150.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg151.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg151.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg152.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg152.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg153.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg153.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg154.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg154.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg155.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg155.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg156.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg156.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg157.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg157.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg158.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg158.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg159.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg159.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg160.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg160.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg161.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg161.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg162.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg162.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg163.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg163.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg164.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg164.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg165.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg165.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg166.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg166.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg167.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg167.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg168.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg168.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg169.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg169.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg170.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg170.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg171.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg171.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg172.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg172.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg173.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg173.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg174.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg174.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg175.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg175.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg176.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg176.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg177.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg177.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg178.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg178.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg179.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg179.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg180.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg180.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg181.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg181.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg182.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg182.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg183.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg183.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg184.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg184.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg185.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg185.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg186.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg186.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg187.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg187.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg188.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg188.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg189.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg189.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg190.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg190.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg191.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg191.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg192.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg192.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg193.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg193.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg194.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg194.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg195.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg195.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg196.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg196.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg197.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg197.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg198.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg198.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages1/msg199.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages1/msg199.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg200.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg200.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg201.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg201.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg202.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg202.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg203.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg203.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg204.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg204.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg205.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg205.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg206.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg206.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg207.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg207.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg208.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg208.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg209.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg209.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg210.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg210.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg211.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg211.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg212.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg212.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg213.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg213.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg214.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg214.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg215.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg215.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg216.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg216.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg217.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg217.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg218.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg218.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg219.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg219.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg220.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg220.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg221.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg221.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg222.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg222.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg223.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg223.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg224.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg224.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg225.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg225.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg226.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg226.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg227.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg227.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg228.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg228.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg229.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg229.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg230.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg230.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg231.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg231.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg232.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg232.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg233.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg233.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg234.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg234.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg235.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg235.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg236.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg236.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg237.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg237.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg238.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg238.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg239.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg239.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg240.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg240.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg241.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg241.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg242.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg242.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg243.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg243.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg244.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg244.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg245.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg245.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg246.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg246.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg247.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg247.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg248.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg248.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg249.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg249.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg250.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg250.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg251.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg251.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg252.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg252.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg253.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg253.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg254.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg254.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg255.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg255.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg256.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg256.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg257.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg257.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg258.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg258.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg259.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg259.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg260.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg260.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg261.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg261.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg262.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg262.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg263.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg263.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg264.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg264.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg265.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg265.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg266.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg266.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg267.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg267.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg268.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg268.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg269.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg269.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg270.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg270.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg271.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg271.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg272.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg272.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg273.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg273.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg274.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg274.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg275.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg275.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg276.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg276.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg277.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg277.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg278.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg278.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg279.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg279.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg280.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg280.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg281.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg281.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg282.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg282.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg283.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg283.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg284.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg284.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg285.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg285.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg286.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg286.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg287.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg287.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg288.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg288.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg289.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg289.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg290.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg290.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg291.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg291.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg292.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg292.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg293.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg293.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg294.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg294.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg295.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg295.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg296.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg296.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg297.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg297.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg298.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg298.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages2/msg299.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages2/msg299.eml
+INFO:root:saved /media/skyline/ELEMENTS/emails/drafts/messages3/msg300.eml
+INFO:root:deleted /media/skyline/ELEMENTS/emails/drafts/messages3/msg300.eml
+INFO:root:next page
+INFO:root:file transfer completed
+INFO:root:now renaming emails...
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg27.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg44.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/drafts.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/drafts.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages0/Lewis Road Creamery Tasting for PnS Tamatea.eml to /media/skyline/ELEMENTS/emails/drafts/messages0/Lewis Road Creamery Tasting for PnS Tamatea.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg10.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg11.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg16.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg19.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg21.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg25.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg29.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg3.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg30.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg31.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg33.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg34.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg35.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg36.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg37.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg39.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg41.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg43.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg45.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg46.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg47.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg48.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg49.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg5.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg50.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg53.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg55.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg56.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg57.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg58.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg59.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg60.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg61.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg62.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg64.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg65.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg66.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg67.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg68.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg7.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg70.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg73.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg75.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg76.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages0/msg8.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg100.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Diana - I have now finished work if you want to ring or email me..eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg101.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg102.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Diana.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg103.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg104.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg105.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Orestes.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg106.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg107.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg108.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg109.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg110.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg111.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg112.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg113.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg114.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg115.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg116.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Tastings.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg117.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg118.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg120.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg121.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg122.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg123.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg124.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg125.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg126.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg127.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg128.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Daniel McGregor - 10FE.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg129.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Mentos Chocos.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg130.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg131.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg132.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Update.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg133.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/PNS Tamatea - Barrys Bay Cheese.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg134.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg135.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg136.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg137.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg138.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg140.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg141.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg142.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg143.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Barrys Bay Cheese Tasting Dates For May - September 2017.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg144.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg145.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg146.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg147.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg148.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg149.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg150.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg151.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg152.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg153.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg154.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg155.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg156.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg157.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg158.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg160.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg161.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg162.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg163.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg164.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Diana's 40th Party.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg165.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Diana's '40th' Party.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg166.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg167.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg168.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg169.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg170.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg171.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Taupo.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg172.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg173.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg174.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg175.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg176.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg177.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg178.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg180.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg181.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Barrys Bay Cheese Tastings For New Worlds Hawke's Bay.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg182.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Barrys Bay Cheese Tastings For New Worlds Hawke's Bay.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg183.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg184.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg185.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg186.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/John McGregor.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg187.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg188.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg189.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Re Invoices.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg190.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg191.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg192.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg193.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg194.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg195.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg196.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Barrys Bay Cheese Tastings For New World Havelock North.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg197.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/Barrys Bay Cheese Tastings For New World Havelock North.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg198.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg199.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages1/msg119.eml to /media/skyline/ELEMENTS/emails/drafts/messages1/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg139.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg159.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages1/msg179.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg200.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg201.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg202.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg203.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg204.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg205.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg206.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Shoes.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg207.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Barrys Bay Cheese Tastings For New Worlds.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg208.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg209.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg210.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg211.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg212.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Andre.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg213.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Daniel McGregor.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg214.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg215.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg216.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg217.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg218.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg220.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg221.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg222.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg223.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg224.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg225.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg226.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Daniel's 100m Sprint Race @ NBHS.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg227.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Barrys Bay Cheese Tastings For New World Havelock North.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg228.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg229.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg230.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg231.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg232.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg233.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg234.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Honda Prelude 1993.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg235.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg236.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg237.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg238.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg240.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Photos.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg241.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Diana.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg242.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg243.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg244.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg245.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg246.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Next Monday.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg247.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg248.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg249.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Thank You 4 Part A Diana.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg250.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Family Photo At The Mission Winery May 2014.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg251.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg252.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg253.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg254.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg255.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg256.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg257.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg258.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg260.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Pay Sheet For Diana McGregor.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg261.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg262.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg263.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg264.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg265.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg266.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg267.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg268.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Bookings For Harringtons Demos Pak n Save Hastings.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg269.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg270.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg271.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg272.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg273.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg274.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Paysheet for Diana McGregor.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg275.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Just to give you the heads up.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg276.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg277.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg278.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/Harringotns Demos.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg280.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg281.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg282.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg283.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg284.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg285.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg286.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg287.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg288.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg289.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg290.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg291.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg292.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg293.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg294.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg295.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/New World Waipawa Demo & Demo's Beginning Week 8th July 2013.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg296.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg297.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg298.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg299.eml
+INFO:root:renamed /media/skyline/ELEMENTS/emails/drafts/messages2/msg219.eml to /media/skyline/ELEMENTS/emails/drafts/messages2/.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg239.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg259.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages2/msg279.eml
+INFO:root:failed to rename /media/skyline/ELEMENTS/emails/drafts/messages3/msg300.eml
+INFO:root:completed renaming emails...
