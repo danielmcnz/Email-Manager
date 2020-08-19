@@ -2,14 +2,15 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 import time, os, logging
-from dotenv import load_dotenv
+
+from service import Service, Services
+
 
 class Driver():
-    def __init__(self, del_emails=False):
+    def __init__(self, del_emails=False, service=Services.now):
         self.del_emails = del_emails
-
-        self.driver = webdriver.Firefox(executable_path = '/home/skyline/Documents/Programming/email_web_scraper/geckodriver')
-        self.driver.get('http://nowmail.co.nz')
+        self.service = Service(service)
+        
         self.msgnum = 0
         self.page_try = 0
         self.emails_per_page = 100
@@ -17,6 +18,9 @@ class Driver():
         self.subject = ''
         self.curdir = ''
         self.originaldir = ''
+
+        self.driver = self.service.initialize()
+        self.service.get_service_link()
 
     def set_emails_per_page(self, amount):
         """Sets the amount of emails allowed per folder in saved directory
@@ -37,15 +41,10 @@ class Driver():
         self.originaldir = directory
 
     def login(self):
-        """Logs into email account
+        """ Calls service login
         """
 
-        self.user = self.driver.find_element_by_id('rcmloginuser')
-        self.user.send_keys(os.environ.get('USER'))
-        self.pwd = self.driver.find_element_by_id('rcmloginpwd')
-        self.pwd.send_keys(os.environ.get('PASSWORD'))
-        self.submit = self.driver.find_element_by_css_selector(".button.mainaction[value='Login']")
-        self.submit.click()
+        self.service.login()
 
     def select_folder(self, folder_name):
         """Selects email folder
@@ -54,34 +53,32 @@ class Driver():
             folder_name (string): name of email folder
         """
 
-        time.sleep(6)
-        self.submit = self.driver.find_element_by_id("rcmli{folder}".format(folder=folder_name))
-        self.submit.click()
+        self.service.select_folder(folder_name)
 
     def select_first_email(self):
         """Selects first email in folder
         """
 
-        time.sleep(1)
-        self.email = self.driver.find_elements_by_class_name('date')
-        self.email[1].click()
+        self.service.select_first_email()
 
     def get_next_page(self):
         """Gets the next page of emails
         """
 
-        self.next = self.driver.find_element_by_id('rcmbtn115')
-        self.next.click()
-        self.page_try = 1
+        self.page_try = self.service.get_next_page()
 
     def del_email(self):
         """Deletes currently selected email
         """
+
         if(self.del_emails):
-            self.delete = self.driver.find_element_by_id('rcmbtn123')
-            self.delete.click()
-            print('deleted {email}'.format(email=self.currentfile))
-            logging.info('deleted {email}'.format(email=self.currentfile))
+            self.service.del_email()
+
+    def get_source(self):
+        """ Opens the source of the email
+        """
+
+        self.service.get_source()
 
     def save_email(self, text):
         """Saves currently selected email in specified filepath
@@ -129,12 +126,7 @@ class Driver():
                     self.loop = False
 
         while self.loop:
-            self.settings = self.driver.find_element_by_id('messagemenulink')
-            self.settings.click()
-            time.sleep(1)
-            self.source = self.driver.find_element_by_id('rcmbtn131')
-            self.source.click()
-            time.sleep(1)
+            self.get_source()
 
             try:
                 self.driver.switch_to.window(self.driver.window_handles[1])
