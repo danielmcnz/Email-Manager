@@ -1,4 +1,5 @@
 .env
+.vscode
 *.log
 __pycache__
 logging
