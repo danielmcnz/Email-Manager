@@ -1,5 +1,9 @@
 .env
 .vscode
 *.log
+
 __pycache__
 logging
+dist
+build
+Email_scraper.egg-info

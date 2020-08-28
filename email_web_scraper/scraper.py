@@ -1,7 +1,6 @@
-from manager import (fix_subject, 
-                        get_emails, 
-                        rename_emails,
-                        create_logger)
+#!/usr/bin/env python
+
+from src.manager import *
 
 import logging, os
 from dotenv import load_dotenv
@@ -13,7 +12,7 @@ def main():
     directory = os.environ.get('DIR')
     print('started email transfer...')
     logging.info('started email transfer...')
-    get_emails(directory, 'INBOX_Drafts')
+    #get_emails(directory, 'INBOX_Drafts')
 
 if __name__ == '__main__':
     main()

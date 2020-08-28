@@ -1,4 +1,4 @@
-import os, enum
+import os, enum, time, logging
 
 from dotenv import load_dotenv
 
@@ -28,8 +28,8 @@ class Service():
         self.exepath = os.getcwd+'/geckodriver'
         self.driver = ''
 
-        if browser == Browsers.firefox:
-            self.driver = webdriver.Firefox(executable_path=self.exepath)
+        if self.browser == Browsers.firefox:
+            self.driver = self.driver.Firefox(executable_path=self.exepath)
         
         return self.driver
 
@@ -87,7 +87,7 @@ class Service():
 
         return self.page_try
 
-    def del_email(self):
+    def del_email(self, currentfile):
         """Deletes currently selected email
         """
 
@@ -95,8 +95,8 @@ class Service():
             self.delete = self.driver.find_element_by_id('rcmbtn123')
             self.delete.click()
 
-        print('deleted {email}'.format(email=self.currentfile))
-        logging.info('deleted {email}'.format(email=self.currentfile))
+        print('deleted {email}'.format(email=currentfile))
+        logging.info('deleted {email}'.format(email=currentfile))
 
     def get_source(self):
         """ Opens the source of the email

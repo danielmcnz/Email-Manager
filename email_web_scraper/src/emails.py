@@ -3,13 +3,13 @@ from selenium.webdriver.common.keys import Keys
 
 import time, os, logging
 
-from service import Service, Services
+from service import Service, Services, Browsers
 
 
 class Driver():
-    def __init__(self, del_emails=False, service=Services.now):
+    def __init__(self, del_emails=False, service=Services.now, browser=Browsers.firefox):
         self.del_emails = del_emails
-        self.service = Service(service)
+        self.service = Service(service, browser)
         
         self.msgnum = 0
         self.page_try = 0
@@ -19,7 +19,7 @@ class Driver():
         self.curdir = ''
         self.originaldir = ''
 
-        self.driver = self.service.initialize()
+        self.driver = self.service.driver_setup()
         self.service.get_service_link()
 
     def set_emails_per_page(self, amount):
@@ -72,7 +72,7 @@ class Driver():
         """
 
         if(self.del_emails):
-            self.service.del_email()
+            self.service.del_email(self.currentfile)
 
     def get_source(self):
         """ Opens the source of the email
