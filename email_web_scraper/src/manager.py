@@ -3,7 +3,7 @@ from email.parser import BytesParser
 import os, logging
 from datetime import date
 
-from emails import Driver
+from .emails import Driver
 
 def fix_subject(filepath, filename):
     """Changes the name of the email file to the subject of the email
@@ -50,6 +50,9 @@ def rename_emails(directory):
     Args:
         directory (string): parent directory of email(s)
     """
+    
+    print('now renaming emails...')
+    logging.info('now renaming emails...')
 
     files = os.listdir(directory)
     for file in files:
@@ -58,23 +61,20 @@ def rename_emails(directory):
             rename_emails(fullPath+"/")
         else:
             fix_subject(directory,file)
+            
+    print('completed renaming emails...')
+    logging.info('completed renaming emails...')
 
 def create_logger():
     """Sets up the logger
     """
     
-    print('now renaming emails...')
-    logging.info('now renaming emails...')
-
     count = 0
     if not os.path.exists('logging'):
         os.mkdir('logging')
     if not os.path.isfile('logging/email_transfer_{date}.log'.format(date=date.today())):
         logging.basicConfig(filename='logging/email_transfer_{date}.log'.format(date=date.today()), level=logging.INFO)
     else:
-        while os.path.isfile('loggin/email_transfer_{date}_{num}.log'.format(date=date.today(), num=count)):
+        while os.path.isfile('logging/email_transfer_{date}_{num}.log'.format(date=date.today(), num=count)):
             count += 1
         logging.basicConfig(filename='logging/email_transfer_{date}_{num}.log'.format(date=date.today(), num=count), level=logging.INFO)
-    
-    print('completed renaming emails...')
-    logging.info('completed renaming emails...')

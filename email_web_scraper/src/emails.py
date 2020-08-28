@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 
 import time, os, logging
 
-from service import Service, Services, Browsers
+from .service import Service, Services, Browsers
 
 
 class Driver():
