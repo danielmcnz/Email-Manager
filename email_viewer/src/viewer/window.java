@@ -20,6 +20,7 @@ public class window {
         frame.setResizable(false);
 
         HomeWindow homeWindow = new HomeWindow();
+        homeWindow.ShowEmail();
         
         frame.setVisible(true);
     }
