@@ -40,14 +40,14 @@ class Driver():
 
         self.originaldir = directory
 
-    def sort_by_date(self, sortType):
+    def sort_by_date(self, sort_type):
         """ Determines how the emails are sorted (ascending or descending)
 
         Args:
             sortType (string): 'ascending' or 'descending'
         """
 
-        self.sort_by_date(sortType)
+        self.service.sort_by_date(sort_type)
 
     def login(self):
         """ Calls service login

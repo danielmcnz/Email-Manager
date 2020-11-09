@@ -28,11 +28,10 @@ class Service():
             [string]: [handle to the selenium driver]
         """
 
-        self.exepath = os.getcwd()+'\email_web_scraper\geckodriver'
+        self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
         self.driver = ''
 
         if self.browser == Browsers.firefox:
-            print(self.exepath)
             self.driver = webdriver.Firefox(executable_path=self.exepath)
 
         return self.driver
@@ -46,19 +45,20 @@ class Service():
         elif self.sel_serv == Services.gmail:
             self.driver.get('http://gmail.com')
 
-    def sort_by_date(self, sortType):
+    def sort_by_date(self, sort_type):
         """ Determines how the emails are sorted (ascending or descending)
         """
 
         self.date = self.driver.find_element_by_id('rcmdate')
-        if 'ascending' :
-            print('ascending')
-            if not self.driver.find_elements_by_class_name('date sortedASC'):
-                self.date.click()
-        elif('descending'):
-            print('descending')
-            if not self.driver.find_elements_by_class_name('date sortedDESC'):
-                self.date.click()
+        self.date.click()
+        # if sort_type == 'ascending' :
+        #     print('ascending')
+        #     if not self.driver.find_elements_by_class_name('date sortedASC'):
+        #         self.date.click()
+        # elif sort_type == 'descending':
+        #     print('descending')
+        #     if not self.driver.find_elements_by_class_name('date sortedDESC'):
+        #         self.date.click()
 
     def login(self):
         """Logs into email account
@@ -66,7 +66,7 @@ class Service():
 
         load_dotenv()
         self.user = self.driver.find_element_by_id('rcmloginuser')
-        self.user.send_keys(os.environ.get('USER'))
+        self.user.send_keys(os.environ.get('EMAIL'))
         self.pwd = self.driver.find_element_by_id('rcmloginpwd')
         self.pwd.send_keys(os.environ.get('PASSWORD'))
         self.submit = self.driver.find_element_by_css_selector(".button.mainaction[value='Login']")
@@ -81,8 +81,9 @@ class Service():
 
         time.sleep(6)
         if self.sel_serv == Services.now:
-            self.submit = self.driver.find_element_by_id("rcmli{folder}".format(folder=folder_name))
-            self.submit.click()
+            if folder_name != 'INBOX':
+                self.submit = self.driver.find_element_by_id("rcmli{folder}".format(folder=folder_name))
+                self.submit.click()
 
     def select_first_email(self):
         """Selects first email in folder

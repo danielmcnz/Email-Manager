@@ -12,7 +12,7 @@ def main():
     directory = os.environ.get('DIR')
     print('started email transfer...')
     logging.info('started email transfer...')
-    get_emails(directory, 'INBOX_Drafts')
+    get_emails(directory, 'INBOX')
 
 if __name__ == '__main__':
     main()

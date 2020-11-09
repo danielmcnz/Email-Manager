@@ -43,7 +43,7 @@ def get_emails(directory, email_folder):
     driver.login()
     driver.select_folder(email_folder)
     driver.sort_by_date('ascending')
-    # driver.save_and_rm_emails()
+    driver.save_and_rm_emails()
 
 def rename_emails(directory):
     """renames all email(s) in directory and subdirectories
