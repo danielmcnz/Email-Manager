@@ -1,3 +1,6 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
 import os, enum, time, logging
 
 from dotenv import load_dotenv
@@ -25,12 +28,13 @@ class Service():
             [string]: [handle to the selenium driver]
         """
 
-        self.exepath = os.getcwd+'/geckodriver'
+        self.exepath = os.getcwd()+'\email_web_scraper\geckodriver'
         self.driver = ''
 
         if self.browser == Browsers.firefox:
-            self.driver = self.driver.Firefox(executable_path=self.exepath)
-        
+            print(self.exepath)
+            self.driver = webdriver.Firefox(executable_path=self.exepath)
+
         return self.driver
 
     def get_service_link(self):
@@ -41,6 +45,20 @@ class Service():
             self.driver.get('http://nowmail.co.nz')
         elif self.sel_serv == Services.gmail:
             self.driver.get('http://gmail.com')
+
+    def sort_by_date(self, sortType):
+        """ Determines how the emails are sorted (ascending or descending)
+        """
+
+        self.date = self.driver.find_element_by_id('rcmdate')
+        if 'ascending' :
+            print('ascending')
+            if not self.driver.find_elements_by_class_name('date sortedASC'):
+                self.date.click()
+        elif('descending'):
+            print('descending')
+            if not self.driver.find_elements_by_class_name('date sortedDESC'):
+                self.date.click()
 
     def login(self):
         """Logs into email account
