@@ -31,7 +31,7 @@ class Service():
         if platform.system() == 'Linux':
             self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
         elif platform.system() == 'Windows':
-            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe')
+            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe'
         self.driver = ''
 
         if self.browser == Browsers.firefox:
