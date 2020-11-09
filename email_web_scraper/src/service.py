@@ -28,10 +28,10 @@ class Service():
             [string]: [handle to the selenium driver]
         """
 
-        if platform.platform() == 'Linux':
+        if platform.system() == 'Linux':
             self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
-        elif platform.platform() == 'Windows':
-            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe'
+        elif platform.system() == 'Windows':
+            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe')
         self.driver = ''
 
         if self.browser == Browsers.firefox:
