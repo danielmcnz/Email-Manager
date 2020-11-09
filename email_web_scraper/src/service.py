@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-import os, enum, time, logging
+import os, enum, time, logging, platform
 
 from dotenv import load_dotenv
 
@@ -28,7 +28,10 @@ class Service():
             [string]: [handle to the selenium driver]
         """
 
-        self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
+        if platform.platform() == 'Linux':
+            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
+        elif platform.platform() == 'Windows':
+            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe'
         self.driver = ''
 
         if self.browser == Browsers.firefox:
