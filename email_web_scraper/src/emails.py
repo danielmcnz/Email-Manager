@@ -13,7 +13,7 @@ class Driver():
         
         self.msgnum = 0
         self.page_try = 0
-        self.emails_per_page = 100
+        self.emails_per_page = 500
         self.currentfile = ''
         self.subject = ''
         self.curdir = ''
@@ -119,38 +119,45 @@ class Driver():
         """
         self.loop = True
 
-        try:
-            self.select_first_email()
-            self.loop = True
-        except:
-                if self.page_try == 0:
-                    print('next page')
-                    logging.info('next page')
-                    self.get_next_page()
-                    time.sleep(5)
-                    self.loop = True
-                else:
-                    print('file transfer completed')
-                    logging.info('file transfer completed')
-                    self.loop = False
+        # try:
+        #     self.select_first_email()
+        #     self.loop = True
+        # except:
+        #         if self.page_try == 0:
+        #             print('next page')
+        #             logging.info('next page')
+        #             self.get_next_page()
+        #             time.sleep(5)
+        #             self.loop = True
+        #         else:
+        #             print('file transfer completed')
+        #             logging.info('file transfer completed')
+        #             self.loop = False
+
+        time.sleep(5)
+
+        self.select_first_email()
 
         while self.loop:
+            time.sleep(1)
             self.get_source()
+            time.sleep(1)
 
             try:
                 self.driver.switch_to.window(self.driver.window_handles[1])
                 self.page_try = 0
             except:
-                if self.page_try == 0:
-                    print('next page')
-                    logging.info('next page')
-                    self.get_next_page()
-                    time.sleep(5)
-                    continue
-                else:
-                    print('file transfer completed')
-                    logging.info('file transfer completed')
-                    break
+                print("error")
+                continue
+                # if self.page_try == 0:
+                #     print('next page')
+                #     logging.info('next page')
+                #     self.get_next_page()
+                #     time.sleep(5)
+                # else:
+                    # print('file transfer completed')
+                    # logging.info('file transfer completed')
+                    # break
                 
             self.page_source = self.driver.find_element_by_tag_name('body')
             self.text = self.page_source.get_attribute('innerText')
@@ -160,4 +167,5 @@ class Driver():
             self.driver.close()
 
             self.driver.switch_to.window(self.driver.window_handles[0])
+            
             self.del_email()

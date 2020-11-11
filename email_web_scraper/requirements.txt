@@ -1,4 +1,3 @@
-python-dotenv==0.14.0
+python-dotenv
 email
 selenium
-python-dotenv

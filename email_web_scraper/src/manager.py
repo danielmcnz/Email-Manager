@@ -38,11 +38,11 @@ def get_emails(directory, email_folder):
         email_folder (string): folder of emails in website
     """
 
-    driver = Driver()
+    driver = Driver(True)
     driver.set_directory(directory)
     driver.login()
     driver.select_folder(email_folder)
-    driver.sort_by_date('ascending')
+    # driver.sort_by_date('ascending')
     driver.save_and_rm_emails()
 
 def rename_emails(directory):

@@ -28,14 +28,16 @@ class Service():
             [string]: [handle to the selenium driver]
         """
 
-        if platform.system() == 'Linux':
-            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver'
-        elif platform.system() == 'Windows':
-            self.exepath = os.getcwd()+os.sep()+'email_web_scraper'+os.sep()+'geckodriver.exe'
         self.driver = ''
 
-        if self.browser == Browsers.firefox:
-            self.driver = webdriver.Firefox(executable_path=self.exepath)
+        if platform.system() == 'Linux':
+            self.exepath = os.getcwd()+os.sep+'email_web_scraper'+os.sep+'geckodriver'
+            if self.browser == Browsers.firefox:
+                self.driver = webdriver.Firefox()
+        elif platform.system() == 'Windows':
+            self.exepath = os.getcwd()+os.sep+'email_web_scraper'+os.sep+'geckodriver.exe'
+            if self.browser == Browsers.firefox:
+                self.driver = webdriver.Firefox(executable_path=self.exepath)        
 
         return self.driver
 
@@ -92,8 +94,6 @@ class Service():
         """Selects first email in folder
         """
 
-        time.sleep(1)
-
         if self.sel_serv == Services.now:
             self.email = self.driver.find_elements_by_class_name('date')
             self.email[1].click()
@@ -114,8 +114,12 @@ class Service():
         """
 
         if self.sel_serv == Services.now:
-            self.delete = self.driver.find_element_by_id('rcmbtn123')
-            self.delete.click()
+            try:
+                self.delete = self.driver.find_element_by_id('rcmbtn123')
+                self.delete.click()
+            except:
+                self.driver.quit()
+                exit(1)
 
         print('deleted {email}'.format(email=currentfile))
         logging.info('deleted {email}'.format(email=currentfile))
