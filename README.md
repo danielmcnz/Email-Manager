@@ -1,8 +1,13 @@
-# Email Manager
-A repo for all my projects for emailing
+# Email Scraper
 
-## Email Scraper
-An email scraper to collect and store emails locally
+This is a program to save all of your emails to your local drive and declutter your inbox.
 
-## Email Viewer
-Locally stored email viewer
+## About
+I started this as a way to declutter my emails while storing them locally so I don't lose any important emails.
+
+## Support
+- Nowmail
+
+## Future implementations
+- Support for Gmail
+- The viewer program is yet to be created in the "direct_mail" folder
